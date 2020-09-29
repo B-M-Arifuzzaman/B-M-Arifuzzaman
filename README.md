@@ -40,11 +40,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="B-M-Arifuzzaman's Github Stats" src="https://github-readme-stats.b-m-arifuzzman.vercel.app/api?username=b-m-arifuzzaman&show_icons=true&hide_border=true" />
-</details>
 
 
 [twitter]: https://twitter.com/arifuzzaman_bm
