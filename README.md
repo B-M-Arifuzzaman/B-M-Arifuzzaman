@@ -12,9 +12,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arifuzzaman_bm |" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="b-m-arifuzzaman |" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="arifuzzaman_bm " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
+
+</details>
+
+
+[twitter]: https://twitter.com/arifuzzaman_bm
+[linkedin]: https://linkedin.com/in/b-m-arifuzzaman
 
