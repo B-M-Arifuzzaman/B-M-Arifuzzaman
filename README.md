@@ -5,7 +5,11 @@
 
 ## I'm a Student, App Developer, Ethical Hacker ! ! !
 
-- 🔭 I’m currently working on [[Roomy]](http://roomatebd.com/)
+- 🔭 I’m currently working on [Roomy](http://roomatebd.com/)
 - 🌱 I’m currently learning Python :snake:
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Eat, Sleep & Learn 
+
+
+[<img align="left" alt="arifuzzman_bm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="b-m-arifuzzaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
