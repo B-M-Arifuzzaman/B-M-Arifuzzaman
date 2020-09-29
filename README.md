@@ -10,6 +10,6 @@
 - 🥅 2020 Goals: Eat, Sleep & Learn 
 
 
-[<img align="left" alt="arifuzzman_bm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="b-m-arifuzzaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="arifuzzman_bm | Twitter" width="22px" src="https://twitter.com/arifuzzaman_bm" />][twitter] <br>
+[<img align="left" alt="b-m-arifuzzaman | LinkedIn" width="22px" src="https://www.linkedin.com/in/b-m-arifuzzaman/" />][linkedin]
 
