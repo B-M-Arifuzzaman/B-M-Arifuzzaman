@@ -5,7 +5,7 @@
 
 ## I'm a Student, App Developer, Ethical Hacker ! ! !
 
-- 🔭 I’m currently working on [Roomy](http://roomatebd.com/) :persevere:
+- 🔭 I’m currently studying engineering in Computer Science :persevere:
 - 🌱 I’m currently learning Python :snake: 
 - 🥅 2020 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
 
