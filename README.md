@@ -6,7 +6,7 @@
 ## I'm a Student, App Developer, Ethical Hacker ! ! !
 
 - 🔭 I’m studying engineering in Computer Science :persevere:
-- 🌱 I’m currently learning Python :snake: 
+- 🌱 I’m currently learning Web Designing  
 - 🥅 2020 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
 
 
@@ -14,8 +14,10 @@
 
 [<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin-circled.png" />][linkedin]
 
+<br />
+### Hire me:
 
-[<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://icons8.com/vector-creator/illustration/5fd71175487a4064f4dd802e.png" />][linkedin]
+[<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://img.icons8.com/plasticine/100/000000/new-job.png" />][fiverr]
 
 
 <br />
@@ -45,4 +47,5 @@
 
 
 [linkedin]: https://linkedin.com/in/b-m-arifuzzaman
+[fiverr]: https://www.fiverr.com/arif_zaman_
 
