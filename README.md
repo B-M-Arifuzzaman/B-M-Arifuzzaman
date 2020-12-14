@@ -15,6 +15,9 @@
 [<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin-circled.png" />][linkedin]
 
 
+[<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://icons8.com/vector-creator/illustration/5fd71175487a4064f4dd802e.png" />][linkedin]
+
+
 <br />
 
 
