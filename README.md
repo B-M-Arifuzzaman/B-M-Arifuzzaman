@@ -10,12 +10,16 @@
 
 
 ## Let's Connect:
+
 [<img align="left" alt="b-m-arifuzzaman" width="60px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin-circled.png" />][linkedin]
+
 <br />
 <br />
 
 ## Hire me:
+
 [<img align="left" alt="b-m-arifuzzaman" width="60px" src="https://img.icons8.com/plasticine/100/000000/new-job.png" />][fiverr]
+
 <br />
 <br />
 
@@ -36,6 +40,8 @@
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <br />
 <br />
+
+
 [linkedin]: https://linkedin.com/in/b-m-arifuzzaman
 [fiverr]: https://www.fiverr.com/arif_zaman_
 
