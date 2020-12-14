@@ -17,7 +17,7 @@
 <br />
 ### Hire me:
 
-[<img align="left" alt="b-m-arifuzzaman" width="22px" src="https://img.icons8.com/plasticine/100/000000/new-job.png" />][fiverr]
+[<img align="left" alt="b-m-arifuzzaman" width="60px" src="https://img.icons8.com/plasticine/100/000000/new-job.png" />][fiverr]
 
 
 <br />
