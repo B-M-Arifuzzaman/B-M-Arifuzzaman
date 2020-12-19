@@ -10,7 +10,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&show_icons=true&theme=tokyonight)
 
 
 ## Let's Connect:
