@@ -9,8 +9,8 @@
 - 🥅 2020 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&show_icons=true&theme=radical)
 
 
 ## Let's Connect:
