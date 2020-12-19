@@ -11,7 +11,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&show_icons=true&theme=tokyonight)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B-M-Arifuzzaman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-M-Arifuzzaman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect:
 
