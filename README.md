@@ -1,4 +1,4 @@
-# Hello there, I'm *Arif* :boy:  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="100" height="70" /> 
+# Hello there, I'm *Arif*  :boy:  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="100" height="100" /> 
 <br />
 
 
