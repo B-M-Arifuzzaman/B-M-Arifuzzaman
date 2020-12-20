@@ -1,4 +1,8 @@
 # Hello there, I'm *Arif* 👋 :boy:
+<br />
+
+
+![](https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arifuzzaman_bm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farifuzzaman_bm&screen_name=arifuzzaman_bm)
@@ -10,7 +14,11 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&count_private=true&show_icons=true&theme=midnight-purple)
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-M-Arifuzzaman&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <br />
 
 ## Let's Connect:
