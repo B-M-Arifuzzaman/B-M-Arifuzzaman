@@ -21,7 +21,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-M-Arifuzzaman&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect:
 
