@@ -11,7 +11,7 @@
 ### I'm a Student, Front-End App Developer, Ethical Hacker !!!
 - 🔭 I’m studying engineering in Computer Science :persevere:
 - 🌱 I’m currently learning Web Designing  
-- 🥅 2020 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
+- 🥅 2021 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
 
 
 
