@@ -3,9 +3,6 @@
 # Hello there, I'm *Arif* :boy:  
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="75" height="75" /> 
 <br />
-<div class="head">
-	<p style="color: green;">sdafasdf</p>
-</div>
 
 ![](https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This)
 
