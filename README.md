@@ -1,7 +1,7 @@
 
 
 # Hello there, I'm *Arif* :boy:  
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="75" height="75" /> 
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="200" height="200" /> 
 <br />
 
 ![](https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This)
