@@ -1,18 +1,24 @@
 
+<h1 align="center"> Hello there, I'm <b><i>Arif</i></b> 👦 </h1>
 
-# Hello there, I'm *Arif* :boy:  
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="200" height="200" /> 
-<br />
+<p  align="center">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="200" height="200" /> 
+</p>
 
-![](https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This" width="300px"> 
+   <img src="https://img.shields.io/twitter/follow/arifuzzaman_bm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farifuzzaman_bm&screen_name=arifuzzaman_bm" width="300px"> 
+</p>
+<h2 align="center"> I'm a Student, Front-End App Developer, Ethical Hacker, Web Designer !!! </h2>
+<div align="center">
+  <ul  align="center"> 
+    <li align="center">🔭 I’m studying engineering in Computer Science :persevere: </li>
+    <li align="center">🌱 I’m currently learning Web Designing & Django Framework </li>
+    <li align="center">🥅 2021 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: </li>
+   </ul>
+ </div>
+    
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/arifuzzaman_bm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farifuzzaman_bm&screen_name=arifuzzaman_bm)
-
-### I'm a Student, Front-End App Developer, Ethical Hacker, Web Designer !!!
-- 🔭 I’m studying engineering in Computer Science :persevere:
-- 🌱 I’m currently learning Web Designing & Django Framework
-- 🥅 2021 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
 
 
 <p align="center">
