@@ -5,11 +5,15 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="200" height="200" /> 
 </p>
 
+<br> 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This" width="300px"> 
    <a href="https://twitter.com/arifuzzaman_bm"><img src="https://img.shields.io/twitter/follow/arifuzzaman_bm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farifuzzaman_bm&screen_name=arifuzzaman_bm" width="300px"> </a>
 </p>
+
 <h2 align="center"> I'm a Student, Front-End App Developer, Ethical Hacker, Web Designer !!! </h2>
+<br> 
 <div align="center">
   <ul  align="center"> 
     <li align="center">🔭 I’m studying engineering in Computer Science :persevere: </li>
@@ -18,10 +22,11 @@
    </ul>
  </div>
     
+ <br>
 
 
 
-<p align="center">
+<p align="center"  height="150px">
 
 <img width="470px" src="https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&count_private=true&show_icons=true&theme=midnight-purple" />
 <img width="470px" src="https://github-readme-streak-stats.herokuapp.com/?user=B-M-Arifuzzaman&theme=highcontrast" />
