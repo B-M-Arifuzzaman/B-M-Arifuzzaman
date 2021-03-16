@@ -15,13 +15,17 @@
 - 🥅 2021 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: 
 
 
+<p align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&count_private=true&show_icons=true&theme=midnight-purple)
-<br />
+<img width="470px" src="https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&count_private=true&show_icons=true&theme=midnight-purple" />
+<img width="470px" src="https://github-readme-streak-stats.herokuapp.com/?user=B-M-Arifuzzaman&theme=highcontrast" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-M-Arifuzzaman&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</p>
 
-<br />
+<p align="center">
+  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=B-M-Arifuzzaman&theme=xcode" />
+  
+</p>
 
 
 ## Let's Connect:
