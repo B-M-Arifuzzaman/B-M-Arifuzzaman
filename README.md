@@ -18,7 +18,7 @@
   <ul  align="center"> 
     <li align="center">🔭 I’m studying engineering in Computer Science :persevere: </li>
     <li align="center">🌱 I’m currently learning Web Designing & Django Framework </li>
-    <li align="center">🥅 2021 Goals: Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: </li>
+    <li align="center">🥅 2021 Goals : Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: </li>
    </ul>
  </div>
     
