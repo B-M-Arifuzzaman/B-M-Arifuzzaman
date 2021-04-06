@@ -4,7 +4,6 @@
 <p  align="center">
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="200" height="200" /> 
 </p>
-
 <br> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=B-M-Arifuzzaman&color=yellowgreen&style=plastic&label=People+Watched+This" width="300px"> 
