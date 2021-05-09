@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello there, I'm<b><i> Arif</i></b> 👦</h1>
+<h1 align="center"> Hey there, I'm<b><i> Arif</i></b> 👦</h1>
 
 <p  align="center">
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="200" height="200" /> 
